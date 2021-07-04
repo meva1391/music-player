@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/music-player/static/css/main.afd7172b.chunk.css",
+    "main.js": "/music-player/static/js/main.69eb3905.chunk.js",
+    "main.js.map": "/music-player/static/js/main.69eb3905.chunk.js.map",
+    "runtime-main.js": "/music-player/static/js/runtime-main.c0890b4c.js",
+    "runtime-main.js.map": "/music-player/static/js/runtime-main.c0890b4c.js.map",
+    "static/css/2.29291e13.chunk.css": "/music-player/static/css/2.29291e13.chunk.css",
+    "static/js/2.c2afac1f.chunk.js": "/music-player/static/js/2.c2afac1f.chunk.js",
+    "static/js/2.c2afac1f.chunk.js.map": "/music-player/static/js/2.c2afac1f.chunk.js.map",
+    "static/js/3.26d3aa41.chunk.js": "/music-player/static/js/3.26d3aa41.chunk.js",
+    "static/js/3.26d3aa41.chunk.js.map": "/music-player/static/js/3.26d3aa41.chunk.js.map",
+    "index.html": "/music-player/index.html",
+    "static/css/2.29291e13.chunk.css.map": "/music-player/static/css/2.29291e13.chunk.css.map",
+    "static/css/main.afd7172b.chunk.css.map": "/music-player/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.c2afac1f.chunk.js.LICENSE.txt": "/music-player/static/js/2.c2afac1f.chunk.js.LICENSE.txt",
+    "static/media/LostChameleon.4ab9a38b.mp3": "/music-player/static/media/LostChameleon.4ab9a38b.mp3",
+    "static/media/TheHipsta.85de41f3.mp3": "/music-player/static/media/TheHipsta.85de41f3.mp3",
+    "static/media/Tobu.fc27b42c.mp3": "/music-player/static/media/Tobu.fc27b42c.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0890b4c.js",
+    "static/css/2.29291e13.chunk.css",
+    "static/js/2.c2afac1f.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.69eb3905.chunk.js"
+  ]
+}
